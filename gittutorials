@@ -1,0 +1,7 @@
+Git Tutorials
+Introduction To Git Distributed Version Control System.
+
+We use git to overcome repetitive work. Like we are working on an application and our clients says I don’t like some features, so you’ll have to remove. If we’ll delete those features, then later if clients again asked to add those features, we can’t add.
+So, git help us to make backup on each point so we can later either push back or commit changes.
+One major advantages of Git are that it’s distributed version control system. Code will be locally hosted to each user once he done changes, he can push all changes at once.  If for some reason he can push changes like lack of internet, then later he can push changes to master repository.
+There is multiple platform to host our code using gits, GitHub, GitLab etc. In this scenario we will use GitHub as our host platform.
