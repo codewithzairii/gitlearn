@@ -5,3 +5,15 @@ We use git to overcome repetitive work. Like we are working on an application an
 So, git help us to make backup on each point so we can later either push back or commit changes.
 One major advantages of Git are that it’s distributed version control system. Code will be locally hosted to each user once he done changes, he can push all changes at once.  If for some reason he can push changes like lack of internet, then later he can push changes to master repository.
 There is multiple platform to host our code using gits, GitHub, GitLab etc. In this scenario we will use GitHub as our host platform.
+
+
+Step#2:
+1. Go To github website and create an account. Provide your username, email, password.
+2. Create Repository, you can name it anythin special, repository is simple a folder or wrapper.
+3. Add New file, Assign a name to your file and enter some short description about your file.
+4. Now from here game start. For example you added something like Lecture 1 to your file. Now 1 day, 2 day or even 1 hour later you decided
+   to make some changes to your lectures 1, but you also don't want to remove content. so what you have to do is? you have to edit your fil
+   add some changes and at the bottom there will be an option to commit just that. Assign a name to your changes so later you can identify.
+   
+   If you want to achieve earlier work goto commit and open any commit you want to review.
+   
